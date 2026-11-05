@@ -1,2 +1,1 @@
-# DisciplinaBancoDeDados
-Conteúdos e Atividades sobre banco de dados relacional.
+*Conteúdos e Atividades sobre banco de dados relacional.*
